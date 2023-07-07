@@ -1,0 +1,1831 @@
+Unity Editor version:    2021.3.25f1 (68ef2c4f8861)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.2.1 (Build 22D68)
+Darwin version:          22.3.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/Inculead-Ren/TestProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61197
+Successfully changed project path to: /Users/Inculead-Ren/TestProject
+/Users/Inculead-Ren/TestProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [140704590767744] Host "[IP] 173.71.0.93 [Port] 0 [Flags] 2 [Guid] 3579082148 [EditorId] 3579082148 [Version] 1048832 [Id] OSXEditor(0,static-173-71-0-93.dllstx.fios.frontiernet.net) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704590767744] Host "[IP] 173.71.0.93 [Port] 0 [Flags] 2 [Guid] 3579082148 [EditorId] 3579082148 [Version] 1048832 [Id] OSXEditor(0,static-173-71-0-93.dllstx.fios.frontiernet.net) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 363.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.25f1 (68ef2c4f8861)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Inculead-Ren/TestProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56007
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.25f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.25f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.004119 seconds.
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Multiple ADB server instances found, the following ADB server instance have been terminated due to being run from another SDK. Process paths: 
+/Users/Inculead-Ren/Library/Android/sdk/platform-tools/adb
+Android Extension - Scanning For ADB Devices 267 ms
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 94.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.677 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1677ms)
+		BeginReloadAssembly (390ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1155ms)
+			LoadAssemblies (414ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (194ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (822ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (531ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (95ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (131ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002205 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Package Manager log level set to [2]
+- Completed reload, in  1.432 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1433ms)
+		BeginReloadAssembly (166ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1115ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (346ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (437ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (47ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3162 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (65.8 KB). Loaded Objects now: 3612.
+Memory consumption went from 112.0 MB to 112.0 MB.
+Total: 3.717874 ms (FindLiveObjects: 0.312687 ms CreateObjectMapping: 0.221787 ms MarkObjects: 3.009299 ms  DeleteObjects: 0.173121 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 28782.791743 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(7f2c382dc2c22446db59030979f6e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(7f2c382dc2c22446db59030979f6e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9990f39c3de691f85cda2915bc54e9c4') in 0.184732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 265.532400 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(213d32adcc2794521800c8b8e49faaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(213d32adcc2794521800c8b8e49faaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f1bcd9f574351ae8903fa1c9418c0e') in 0.002479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.668988 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(c850ee8c3b14cc8459e7e186857cf567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(c850ee8c3b14cc8459e7e186857cf567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0314de4939330f30631d5118ab8907') in 0.001454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.418402 seconds.
+  path: Assets/Scenes/placement
+  artifactKey: Guid(15aa79b895c7242e38c33abdc0970d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/placement using Guid(15aa79b895c7242e38c33abdc0970d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab6dc3ca6cf9f5ebcb4e098f640cc66') in 0.002890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.887941 seconds.
+  path: Assets/Scenes/placement/New Scene.unity
+  artifactKey: Guid(5c75d041a53c847e997df3a1b1adc892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/placement/New Scene.unity using Guid(5c75d041a53c847e997df3a1b1adc892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661e13d7e6f4289789ec4663f1495624') in 0.001584 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005081 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.327 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3328ms)
+		BeginReloadAssembly (631ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (132ms)
+		EndReloadAssembly (2351ms)
+			LoadAssemblies (822ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (726ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (844ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (60ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (470ms)
+				ProcessInitializeOnLoadMethodAttributes (200ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3928 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 69 unused Assets / (1.2 MB). Loaded Objects now: 4348.
+Memory consumption went from 138.7 MB to 137.5 MB.
+Total: 6.907732 ms (FindLiveObjects: 0.941004 ms CreateObjectMapping: 0.609198 ms MarkObjects: 4.436634 ms  DeleteObjects: 0.918913 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (31.1 KB). Loaded Objects now: 4348.
+Memory consumption went from 137.5 MB to 137.5 MB.
+Total: 4.092665 ms (FindLiveObjects: 0.330821 ms CreateObjectMapping: 0.232020 ms MarkObjects: 3.502128 ms  DeleteObjects: 0.026534 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 362.917898 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARCameraPositionHistory.prefab
+  artifactKey: Guid(628426794e4144aeae64e95766e3e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARCameraPositionHistory.prefab using Guid(628426794e4144aeae64e95766e3e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328e4821abbe030a046fe44f7ef9fb4c') in 0.101181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/DebugPlane.prefab
+  artifactKey: Guid(4acc747cb290c4a2ab62bc6239fee1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/DebugPlane.prefab using Guid(4acc747cb290c4a2ab62bc6239fee1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957bd16dcde0eb174e4ef20833923e16') in 0.236226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARSceneCamera.prefab
+  artifactKey: Guid(924a7268bfe9947e095cce9a99ed0458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARSceneCamera.prefab using Guid(924a7268bfe9947e095cce9a99ed0458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360b36e38976f8cd4cb1accc8d60bd2') in 0.006678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/ARDK/Extensions/Depth/MeshDepthChunk.prefab
+  artifactKey: Guid(3ed565107be414e4eb77e8133def6fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Depth/MeshDepthChunk.prefab using Guid(3ed565107be414e4eb77e8133def6fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc115a34f81e7fb44bf22f271296b32') in 0.009020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARNetworkingSceneManager.prefab
+  artifactKey: Guid(903492e152bd34b2b8e964fe195297e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARNetworkingSceneManager.prefab using Guid(903492e152bd34b2b8e964fe195297e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a1969bc66868aaf913e4e1540b1c14') in 0.009086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlaneRenderer.prefab
+  artifactKey: Guid(f743302a2f9034b29bb74934bb56402b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlaneRenderer.prefab using Guid(f743302a2f9034b29bb74934bb56402b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bccedef55d37c1ef019549841719a78') in 0.006023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARScanningCamera (Area).prefab
+  artifactKey: Guid(331c94a327bb84b92929fd6b5cd4b871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARScanningCamera (Area).prefab using Guid(331c94a327bb84b92929fd6b5cd4b871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4d50877dbe8a8bcd6d89396486a73a') in 0.008855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/ARDK/Extensions/Meshing/MeshColliderChunk.prefab
+  artifactKey: Guid(99a6454115a034b2e9add187cf73f9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Meshing/MeshColliderChunk.prefab using Guid(99a6454115a034b2e9add187cf73f9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91acc4b9534ee0ad9d46b321096250f7') in 0.004511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/ARDK/Extensions/Meshing/ARMesh.prefab
+  artifactKey: Guid(9f82ecc5afc3c4c2695d9cf37d46f25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Meshing/ARMesh.prefab using Guid(9f82ecc5afc3c4c2695d9cf37d46f25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82ff8f570f2faf61b804d6fec9a2f56') in 0.008513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/ARDK/Extensions/MapVisualization/ARMapPrefab.prefab
+  artifactKey: Guid(a69a384c1d25d432da08e87e0674c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/MapVisualization/ARMapPrefab.prefab using Guid(a69a384c1d25d432da08e87e0674c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686f9471ed12a706d4d4dddcc318c1b7') in 0.538627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/ARDK/Extensions/MapVisualization/ARMapVisualizationRenderer.prefab
+  artifactKey: Guid(1317ae0933d8e4a1798c6426f600fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/MapVisualization/ARMapVisualizationRenderer.prefab using Guid(1317ae0933d8e4a1798c6426f600fcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c06d2f3e45c8baf6637b1f4f944495') in 0.011625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/ARDK/Extensions/Meshing/MeshChunk.prefab
+  artifactKey: Guid(b79f4734d3e2462186a55d546e80cfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Meshing/MeshChunk.prefab using Guid(b79f4734d3e2462186a55d546e80cfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b88d18b911cc67829f5a1457d0120') in 0.003244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/ARDK/Extensions/Gameboard/GameboardMeshChunk.prefab
+  artifactKey: Guid(d0183eaba3a4c44e9aafc695278e1e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Gameboard/GameboardMeshChunk.prefab using Guid(d0183eaba3a4c44e9aafc695278e1e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467e1098d424fc7ae7ad2b35f1423ee9') in 0.003973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARSceneManager.prefab
+  artifactKey: Guid(e91d6d15f11cc4ad29bb1a41ae9aa381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARSceneManager.prefab using Guid(e91d6d15f11cc4ad29bb1a41ae9aa381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cb9e23a5b38e3f9f1c14e4f3f0bdbe') in 0.004687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/ARDK/Extensions/FacePrefab.prefab
+  artifactKey: Guid(1a351732d8dee472583b34d9c7b634a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/FacePrefab.prefab using Guid(1a351732d8dee472583b34d9c7b634a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e50325feed90fac125a531cfccf52a3') in 0.003224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlanePrefab.prefab
+  artifactKey: Guid(98e455e2ba6ba413287f8cd497d4b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlanePrefab.prefab using Guid(98e455e2ba6ba413287f8cd497d4b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a1dc4ae50e19a58a439a9cb8657877') in 0.114884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/ARDK/Extensions/Prefabs/ARScanningCamera (Detail).prefab
+  artifactKey: Guid(1c9b8951553d049679761722319c0545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Prefabs/ARScanningCamera (Detail).prefab using Guid(1c9b8951553d049679761722319c0545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7175c27ad8bd7bc6d9a6f0df22bf81b1') in 0.004973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.867546 seconds.
+  path: Assets/ARDK/Rendering/SRP/ArdkReplacementRenderer.asset
+  artifactKey: Guid(c89fc15b6f5fc4c83b9444bfa325c19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Rendering/SRP/ArdkReplacementRenderer.asset using Guid(c89fc15b6f5fc4c83b9444bfa325c19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dd449f73979b23648053a05fa37213') in 0.007563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.463197 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlanefindingGrid.mat
+  artifactKey: Guid(086d9a479bba14014af77a02085e3e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlanefindingGrid.mat using Guid(086d9a479bba14014af77a02085e3e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65589142b5f50cffb4e1f7540c2befc1') in 0.162457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlanefindingGridNormal.png
+  artifactKey: Guid(081be73d5e04849379894bbbea8524ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlanefindingGridNormal.png using Guid(081be73d5e04849379894bbbea8524ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29146445a0d01dd81732939dd5e9c780') in 1.181596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlanefindingGrid00.png
+  artifactKey: Guid(be98d61473f61478a94ecbeaf5e45bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlanefindingGrid00.png using Guid(be98d61473f61478a94ecbeaf5e45bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd459096abe199036e11891d8697a6c') in 0.014905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/ARDK/Extensions/Planefinding/PlanefindingGrid01.png
+  artifactKey: Guid(98a5c30ad090e427e84419292ecd227b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/Extensions/Planefinding/PlanefindingGrid01.png using Guid(98a5c30ad090e427e84419292ecd227b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc105dc8e65c6e7ae1ba5e21507fb269') in 0.016667 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010075 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.017 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2018ms)
+		BeginReloadAssembly (654ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (135ms)
+		EndReloadAssembly (1237ms)
+			LoadAssemblies (737ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (372ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (388ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (40ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (219ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3997 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4461.
+Memory consumption went from 156.3 MB to 155.1 MB.
+Total: 7.271015 ms (FindLiveObjects: 0.800397 ms CreateObjectMapping: 0.597975 ms MarkObjects: 4.721528 ms  DeleteObjects: 1.149127 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (33.4 KB). Loaded Objects now: 4461.
+Memory consumption went from 155.1 MB to 155.0 MB.
+Total: 6.083246 ms (FindLiveObjects: 0.896942 ms CreateObjectMapping: 0.377218 ms MarkObjects: 4.787880 ms  DeleteObjects: 0.018842 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2251.268215 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/SmallCube.prefab
+  artifactKey: Guid(0b42fca8107c442648dca14c10953b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/SmallCube.prefab using Guid(0b42fca8107c442648dca14c10953b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3b2c8ff72c7087bb03544d5b6624f5') in 0.085949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/SmallCubeOrange.prefab
+  artifactKey: Guid(9d8db845d71294e1ea024a46c1e08d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/SmallCubeOrange.prefab using Guid(9d8db845d71294e1ea024a46c1e08d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129c24d7da71f7d831eece20bc65ed0c') in 0.017996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/SmallCubeRed.prefab
+  artifactKey: Guid(76ba85fefaf7241309223118c83bab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/SmallCubeRed.prefab using Guid(76ba85fefaf7241309223118c83bab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db158326d55dfc5e8ebfff7b2b590738') in 0.019058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/SmallCubeGreen.prefab
+  artifactKey: Guid(ec05375dce88b4689ab943c16ba5cec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/SmallCubeGreen.prefab using Guid(ec05375dce88b4689ab943c16ba5cec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19de946602f9c1a729b2afa2cd818cd7') in 0.016002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/SmallCubeBlue.prefab
+  artifactKey: Guid(bd72bae70b74d4f65bfd46a82dc98fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/SmallCubeBlue.prefab using Guid(bd72bae70b74d4f65bfd46a82dc98fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aaff6d9675256825b7daf11fa82aa7e') in 0.014680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.628430 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/Cube.prefab
+  artifactKey: Guid(4482afd25fcec4068b635887261964b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/Cube.prefab using Guid(4482afd25fcec4068b635887261964b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f258df748eb9293ce4b2cd836bd088') in 0.018699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/CubeRed.prefab
+  artifactKey: Guid(e69f7990a5ec044f69ce718c2597a16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/CubeRed.prefab using Guid(e69f7990a5ec044f69ce718c2597a16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee1e0e7fd4220fbf6b4c025350858eb') in 0.014130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/CubeOrange.prefab
+  artifactKey: Guid(4b5664054f6ff44c4a8332ab5467fe09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/CubeOrange.prefab using Guid(4b5664054f6ff44c4a8332ab5467fe09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861b600d0b0673fa072d35962673618a') in 0.025373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001019 seconds.
+  path: Assets/ARDKExamples/RemoteAuthoring/ExampleAssets/CubeGlyph.prefab
+  artifactKey: Guid(50f45542a65204d93a723724792608ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/RemoteAuthoring/ExampleAssets/CubeGlyph.prefab using Guid(50f45542a65204d93a723724792608ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024a9f70e0c76e91562fd463a9bd25b7') in 0.422327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/CubeBlue.prefab
+  artifactKey: Guid(a5a90e4ee8f7647c4a0f2f394f2fda71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/CubeBlue.prefab using Guid(a5a90e4ee8f7647c4a0f2f394f2fda71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b771195f382a59871255342070c70c41') in 0.036350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/ARDKExamples/Common/Prefabs/CubeGreen.prefab
+  artifactKey: Guid(c501d75b5cf654d09ae481f31a1d21cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Prefabs/CubeGreen.prefab using Guid(c501d75b5cf654d09ae481f31a1d21cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c858f1371673fe68952a0f4d7d5a42a0') in 0.013722 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002530 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1356ms)
+		BeginReloadAssembly (312ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (173ms)
+		EndReloadAssembly (937ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (310ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (397ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (40ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4465.
+Memory consumption went from 157.1 MB to 155.9 MB.
+Total: 7.734209 ms (FindLiveObjects: 0.566286 ms CreateObjectMapping: 0.598170 ms MarkObjects: 4.856231 ms  DeleteObjects: 1.710150 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.1 KB). Loaded Objects now: 4465.
+Memory consumption went from 155.9 MB to 155.9 MB.
+Total: 5.200094 ms (FindLiveObjects: 0.506161 ms CreateObjectMapping: 0.501115 ms MarkObjects: 4.138378 ms  DeleteObjects: 0.051840 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 664.975559 seconds.
+  path: Assets/ARDK/ARDK.asmdef
+  artifactKey: Guid(f3cc28278c88a4b43ae1ec99ea44ed56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDK/ARDK.asmdef using Guid(f3cc28278c88a4b43ae1ec99ea44ed56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6332ffa46ccbe7fd2ef8b0e2fd2b5555') in 0.790461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.968393 seconds.
+  path: Assets/GOLFOBJ
+  artifactKey: Guid(b22f1eb3d912c43cbb8cc80e1e87fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ using Guid(b22f1eb3d912c43cbb8cc80e1e87fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7f35966bd6c277caba762ba8b0be0f') in 0.002180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.029136 seconds.
+  path: Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.jpg
+  artifactKey: Guid(14382e379ff534e8bb8ff6aa08306f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.jpg using Guid(14382e379ff534e8bb8ff6aa08306f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3666d8ce497ad73ecdb6cca37ac3b48b') in 2.924411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002125 seconds.
+  path: Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.obj
+  artifactKey: Guid(d6b6e3806fe534c8fbbeda95b33cf31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.obj using Guid(d6b6e3806fe534c8fbbeda95b33cf31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a0848def78d85cf553a610e06427bc') in 4.278479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.119120 seconds.
+  path: Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.mtl
+  artifactKey: Guid(a68e537d7111642e3b006af34b224fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ/Scaniverse_2022_12_10_091842.mtl using Guid(a68e537d7111642e3b006af34b224fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd281a453bef3232148d3778a0f3e0930') in 0.229149 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003298 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.837 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2840ms)
+		BeginReloadAssembly (489ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (17ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (247ms)
+		EndReloadAssembly (2129ms)
+			LoadAssemblies (246ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (758ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (926ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (77ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (566ms)
+				ProcessInitializeOnLoadMethodAttributes (145ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4468.
+Memory consumption went from 173.8 MB to 172.6 MB.
+Total: 9.127434 ms (FindLiveObjects: 0.717760 ms CreateObjectMapping: 0.379480 ms MarkObjects: 5.872557 ms  DeleteObjects: 2.155034 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (34.9 KB). Loaded Objects now: 4468.
+Memory consumption went from 172.6 MB to 172.5 MB.
+Total: 7.056803 ms (FindLiveObjects: 0.678224 ms CreateObjectMapping: 0.421744 ms MarkObjects: 5.939454 ms  DeleteObjects: 0.015896 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 152.565498 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+  artifactKey: Guid(18775b51e3bd42299fd30bd036ea982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd using Guid(18775b51e3bd42299fd30bd036ea982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da266576fbdaca08c6ab35f3f078f588') in 1.277023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Light.psd
+  artifactKey: Guid(e3b0f810fdea84e40ab4ba20f256f7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Light.psd using Guid(e3b0f810fdea84e40ab4ba20f256f7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d5c6e68a65a9c3a633988c2d83c5b1') in 0.017066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidline_Light.psd
+  artifactKey: Guid(bb42b2d967d6427983c901a4ffc8ecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidline_Light.psd using Guid(bb42b2d967d6427983c901a4ffc8ecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2684ae2abe20cc97273bd3e3e831fcb') in 0.032207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight_Light.psd
+  artifactKey: Guid(e05ace3bd15740cda0bad60d89092a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight_Light.psd using Guid(e05ace3bd15740cda0bad60d89092a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb69f7ce48ede47fc61690f4d451b6e') in 0.029275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush_Light.psd
+  artifactKey: Guid(64b9fad609434c489c32b1cdf2004a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush_Light.psd using Guid(64b9fad609434c489c32b1cdf2004a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4387528d5dbc9bd963edb073909c1879') in 0.019300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop_Light.psd
+  artifactKey: Guid(ed041e68439749a69d0efa0e3d896c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop_Light.psd using Guid(ed041e68439749a69d0efa0e3d896c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7146a3a021896ba22beeb4127495ce') in 0.022456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd
+  artifactKey: Guid(12736c98af174f91827a26b66d2b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd using Guid(12736c98af174f91827a26b66d2b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5571ab7f1c93d03a3791738e4cbbdf') in 0.018207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+  artifactKey: Guid(35ff0937876540d3bd4b6a941df62a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd using Guid(35ff0937876540d3bd4b6a941df62a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c223c2ce23695c2fc6cd6731db20045') in 0.022289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter_Light.psd
+  artifactKey: Guid(6ace62d30f494c948b71d5594afce11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter_Light.psd using Guid(6ace62d30f494c948b71d5594afce11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1ab340a7659cd5d6cf47ab043db9d2') in 0.023211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd
+  artifactKey: Guid(585b70cb75dd43efbfead809c30a1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd using Guid(585b70cb75dd43efbfead809c30a1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a875cf7562c603bbe8d52b75cacf33') in 0.024265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Extensions/light.uss
+  artifactKey: Guid(e98085123be873947970c4f10099a39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Extensions/light.uss using Guid(e98085123be873947970c4f10099a39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f375db644d83972094e23c7a50114780') in 0.127637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002706 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+  artifactKey: Guid(066619c9c9c84f89acb1b48c11a7efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle_Light.psd using Guid(066619c9c9c84f89acb1b48c11a7efe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e203384b5068e4948a7a088513e093ab') in 0.008485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+  artifactKey: Guid(49679f302ac6408697f6b9314a38985c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd using Guid(49679f302ac6408697f6b9314a38985c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2f24a12ac687a78b0c2abc792bddd0') in 0.011020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd
+  artifactKey: Guid(fa6bd40a216346b783a4cce741d277a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd using Guid(fa6bd40a216346b783a4cce741d277a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8595f279059f64e73ee474f58b9f6b0d') in 0.020495 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003686 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.271 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2272ms)
+		BeginReloadAssembly (339ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (149ms)
+		EndReloadAssembly (1726ms)
+			LoadAssemblies (178ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (658ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (96ms)
+			SetupLoadedEditorAssemblies (693ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (69ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (422ms)
+				ProcessInitializeOnLoadMethodAttributes (83ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4470.
+Memory consumption went from 182.0 MB to 180.8 MB.
+Total: 10.010975 ms (FindLiveObjects: 0.941577 ms CreateObjectMapping: 1.190307 ms MarkObjects: 5.399877 ms  DeleteObjects: 2.477320 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (31.6 KB). Loaded Objects now: 4470.
+Memory consumption went from 180.8 MB to 180.8 MB.
+Total: 7.136336 ms (FindLiveObjects: 0.682052 ms CreateObjectMapping: 0.518268 ms MarkObjects: 5.903434 ms  DeleteObjects: 0.030961 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 43.616146 seconds.
+  path: Assets/ARDKMockEnvironments/Models/Seater_Combo.fbx
+  artifactKey: Guid(49df469240e364815a9f07e7d4b3897e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Models/Seater_Combo.fbx using Guid(49df469240e364815a9f07e7d4b3897e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba92e54a7200798a2e8d354758035feb') in 1.040535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Blue.mat
+  artifactKey: Guid(917e78731720c47279f28ae038a582bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Blue.mat using Guid(917e78731720c47279f28ae038a582bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c7d64f64d6fcb591f00a5d1db74ed0') in 0.553820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Red.mat
+  artifactKey: Guid(7e0d1a5d9336d491885d7f845b28ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Red.mat using Guid(7e0d1a5d9336d491885d7f845b28ad40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9018b28429736b90fa401cb5d1a5cdab') in 0.011550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Brown.mat
+  artifactKey: Guid(161a837e02cd14d34a600a07aceaf35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Brown.mat using Guid(161a837e02cd14d34a600a07aceaf35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175e6a26d3c0c789952ffa889a74bf68') in 0.013425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Crowd.jpg
+  artifactKey: Guid(915bd8f4e87954333b3a02db4b72a1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Crowd.jpg using Guid(915bd8f4e87954333b3a02db4b72a1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0213ce44ed0792fbef5d66a5c5de8445') in 0.046623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/ARDKMockEnvironments/Models/Pond_Ground.asset
+  artifactKey: Guid(bc6765d0380eb4edcaf5556102d0071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Models/Pond_Ground.asset using Guid(bc6765d0380eb4edcaf5556102d0071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea46d7ca00501124156865b5196ff59') in 0.018708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Leaf.mat
+  artifactKey: Guid(de0802e2ba87046f489e16ae2790ee46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Leaf.mat using Guid(de0802e2ba87046f489e16ae2790ee46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0e6f4d4faa0a52ef7bcbe92bb1bd71') in 0.290757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Dirt.mat
+  artifactKey: Guid(c28da3b22a6f94f0e9b29b3310688c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Dirt.mat using Guid(c28da3b22a6f94f0e9b29b3310688c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15c982a970f62d996d371410457cd4d') in 0.306474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Yeti.jpg
+  artifactKey: Guid(89308a676ba0b4a4fb47a27346547212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Yeti.jpg using Guid(89308a676ba0b4a4fb47a27346547212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebc010ce4514bb003a4b020194347a9') in 0.081025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/ARDKMockEnvironments/Models/Tree.prefab
+  artifactKey: Guid(c58cf86a213804b209506c1bd654d4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Models/Tree.prefab using Guid(c58cf86a213804b209506c1bd654d4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4295f7fe1a40dfef18887f7bef1eaaa5') in 0.133009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/ARDKMockEnvironments/Models/Plant_Potter.fbx
+  artifactKey: Guid(3232b1cc514884f3eb6d474f3a716dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Models/Plant_Potter.fbx using Guid(3232b1cc514884f3eb6d474f3a716dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681623f9703bb8962959860f17138c41') in 0.207624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Green.mat
+  artifactKey: Guid(1a101c7b5ceb94874a9ca2e8e68a5cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Green.mat using Guid(1a101c7b5ceb94874a9ca2e8e68a5cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9086f901b5b509cc0c3ff5e98c70eae1') in 0.012657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/ARDKMockEnvironments/Materials/Mock-Grey.mat
+  artifactKey: Guid(53e696f68c5f941fca2a2dac620c34fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/Materials/Mock-Grey.mat using Guid(53e696f68c5f941fca2a2dac620c34fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030ebc68f7267501e1a6a215a3defa1f') in 0.015096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.322679 seconds.
+  path: Assets/ARDKMockEnvironments/LivingRoom.prefab
+  artifactKey: Guid(a87e4c0a995ae4977ac2a1256b837e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKMockEnvironments/LivingRoom.prefab using Guid(a87e4c0a995ae4977ac2a1256b837e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b0326704bd673459243fea97189dba') in 0.374609 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003006 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.529 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2531ms)
+		BeginReloadAssembly (445ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (226ms)
+		EndReloadAssembly (1844ms)
+			LoadAssemblies (199ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (683ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (105ms)
+			SetupLoadedEditorAssemblies (728ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (77ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (428ms)
+				ProcessInitializeOnLoadMethodAttributes (91ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4472.
+Memory consumption went from 186.4 MB to 185.2 MB.
+Total: 12.455586 ms (FindLiveObjects: 1.160314 ms CreateObjectMapping: 1.474948 ms MarkObjects: 7.347522 ms  DeleteObjects: 2.470409 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.5 KB). Loaded Objects now: 4472.
+Memory consumption went from 185.2 MB to 185.2 MB.
+Total: 7.270040 ms (FindLiveObjects: 0.743372 ms CreateObjectMapping: 0.363511 ms MarkObjects: 6.129387 ms  DeleteObjects: 0.031728 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004163 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.790 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1791ms)
+		BeginReloadAssembly (235ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (91ms)
+		EndReloadAssembly (1413ms)
+			LoadAssemblies (134ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (454ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (651ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (54ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (379ms)
+				ProcessInitializeOnLoadMethodAttributes (112ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4472.
+Memory consumption went from 186.4 MB to 185.2 MB.
+Total: 6.458589 ms (FindLiveObjects: 0.471656 ms CreateObjectMapping: 0.267511 ms MarkObjects: 4.392171 ms  DeleteObjects: 1.322228 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (31.6 KB). Loaded Objects now: 4472.
+Memory consumption went from 185.2 MB to 185.1 MB.
+Total: 5.712318 ms (FindLiveObjects: 1.797179 ms CreateObjectMapping: 0.499595 ms MarkObjects: 3.400409 ms  DeleteObjects: 0.012962 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007428 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1919ms)
+		BeginReloadAssembly (256ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (112ms)
+		EndReloadAssembly (1502ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (517ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (630ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (80ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (351ms)
+				ProcessInitializeOnLoadMethodAttributes (89ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4472.
+Memory consumption went from 186.4 MB to 185.2 MB.
+Total: 7.821186 ms (FindLiveObjects: 0.560164 ms CreateObjectMapping: 0.307097 ms MarkObjects: 5.730861 ms  DeleteObjects: 1.220359 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.1 KB). Loaded Objects now: 4472.
+Memory consumption went from 185.2 MB to 185.1 MB.
+Total: 105.311995 ms (FindLiveObjects: 0.486125 ms CreateObjectMapping: 0.408949 ms MarkObjects: 104.380187 ms  DeleteObjects: 0.034717 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1015.677507 seconds.
+  path: Assets/ARDKExamples/RemoteAuthoring/LocationManifests/Relic (RemoteAuthoring Mock Wayspot).prefab
+  artifactKey: Guid(ed7a2a4518d554a9fa1cc51108000701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/RemoteAuthoring/LocationManifests/Relic (RemoteAuthoring Mock Wayspot).prefab using Guid(ed7a2a4518d554a9fa1cc51108000701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '22c4b4062a9fa3cbbfc254738effea46') in 0.794230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001068 seconds.
+  path: Assets/ARDKExamples/Scanning/SavedScanPrefab.prefab
+  artifactKey: Guid(a0ed1b4e8d0f8424aa6ea48cc55151ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Scanning/SavedScanPrefab.prefab using Guid(a0ed1b4e8d0f8424aa6ea48cc55151ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c7507a86a592bb6e34d96931cecae8') in 0.045856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/ARDKExamples/Common/Logging/ScrollingLog.prefab
+  artifactKey: Guid(53d58211943764d66a747d5ba617615e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Common/Logging/ScrollingLog.prefab using Guid(53d58211943764d66a747d5ba617615e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11975fc57aeb94ffb555ba24cb2b9b0') in 0.014348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ARDKExamples/Scanning/ScannedObjectPrefab.prefab
+  artifactKey: Guid(772c253d6d90641eb950ec17c0f0de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Scanning/ScannedObjectPrefab.prefab using Guid(772c253d6d90641eb950ec17c0f0de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87590547fc3d5a9849787cb73f598df7') in 0.212933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/ARDKExamples/Scanning/ScanPoiListItem.prefab
+  artifactKey: Guid(acad69a437500472ea4935c57d77a6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Scanning/ScanPoiListItem.prefab using Guid(acad69a437500472ea4935c57d77a6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f6b764819a3e56d4377b56b959fdc2') in 0.005574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ARDKExamples/Scanning/ScannedObjectPrefabUrp.prefab
+  artifactKey: Guid(3d196341305644acabd89700b3f9a018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/Scanning/ScannedObjectPrefabUrp.prefab using Guid(3d196341305644acabd89700b3f9a018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9868ad1ca3c4c8a5dc7fc66fad1a8ee8') in 0.021958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/ARDKExamples/RemoteAuthoring/LocationManifests/Russalka (RemoteAuthoring Mock Wayspot).prefab
+  artifactKey: Guid(fd3ffa839aebb4d9086680a33b5d21d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARDKExamples/RemoteAuthoring/LocationManifests/Russalka (RemoteAuthoring Mock Wayspot).prefab using Guid(fd3ffa839aebb4d9086680a33b5d21d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'cc54f78eb3caf90be0f6f61e0eef0a44') in 0.186058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.385895 seconds.
+  path: Assets/GOLFOBJ/golfgreen.prefab
+  artifactKey: Guid(c7efc18fc89be4951847c984b0f1c798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ/golfgreen.prefab using Guid(c7efc18fc89be4951847c984b0f1c798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a78809e91c7e37b848582e02b80f3f') in 0.006224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.482818 seconds.
+  path: Assets/GOLFOBJ/golfgreen.prefab
+  artifactKey: Guid(c7efc18fc89be4951847c984b0f1c798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GOLFOBJ/golfgreen.prefab using Guid(c7efc18fc89be4951847c984b0f1c798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b023922c614077da174fac3151a28b') in 0.076873 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004404 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2071ms)
+		BeginReloadAssembly (329ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (168ms)
+		EndReloadAssembly (1529ms)
+			LoadAssemblies (155ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (587ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (592ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (67ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (84ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 71 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 186.5 MB to 185.3 MB.
+Total: 10.658394 ms (FindLiveObjects: 1.597864 ms CreateObjectMapping: 1.109535 ms MarkObjects: 6.443107 ms  DeleteObjects: 1.505777 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.4 KB). Loaded Objects now: 4475.
+Memory consumption went from 185.3 MB to 185.3 MB.
+Total: 8.294511 ms (FindLiveObjects: 0.636987 ms CreateObjectMapping: 0.285105 ms MarkObjects: 7.350256 ms  DeleteObjects: 0.021125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 49.635897 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(13ceffe0a05e4442a8e8736e8b70cab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(13ceffe0a05e4442a8e8736e8b70cab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69f569c45e11f6f5fc84013ca2b8fb5') in 0.014541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.018970 seconds.
+  path: Assets/Resources/ARDK
+  artifactKey: Guid(a30f1235112f4418980df55f97e00bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ARDK using Guid(a30f1235112f4418980df55f97e00bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0011641679a9578e4e6c8c785421f3f') in 0.004265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.394747 seconds.
+  path: Assets/Resources/ARDK/ArdkAuthConfig.asset
+  artifactKey: Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ARDK/ArdkAuthConfig.asset using Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098c1ed3a7b9e87de4c6d270f6b3645e') in 0.028434 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003260 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.971 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1972ms)
+		BeginReloadAssembly (289ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (117ms)
+		EndReloadAssembly (1497ms)
+			LoadAssemblies (183ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (525ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (613ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (61ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 186.6 MB to 185.4 MB.
+Total: 7.429771 ms (FindLiveObjects: 0.619793 ms CreateObjectMapping: 0.283277 ms MarkObjects: 4.726806 ms  DeleteObjects: 1.798128 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.1 KB). Loaded Objects now: 4475.
+Memory consumption went from 185.3 MB to 185.3 MB.
+Total: 3.288574 ms (FindLiveObjects: 0.351238 ms CreateObjectMapping: 0.217859 ms MarkObjects: 2.708020 ms  DeleteObjects: 0.010867 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 83.816117 seconds.
+  path: Assets/Resources/ARDK/ArdkAuthConfig.asset
+  artifactKey: Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ARDK/ArdkAuthConfig.asset using Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2276135673d457e90f26a7823ff8a86') in 0.025967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056183 seconds.
+  path: Assets/Resources/ARDK/ArdkAuthConfig.asset
+  artifactKey: Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ARDK/ArdkAuthConfig.asset using Guid(0a04585c34a784450af8fb8fb6270ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56bc847964ae142b14f5169ab4490fa') in 0.003946 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002563 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.335 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2336ms)
+		BeginReloadAssembly (345ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (148ms)
+		EndReloadAssembly (1791ms)
+			LoadAssemblies (200ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (619ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (134ms)
+			SetupLoadedEditorAssemblies (712ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (87ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (412ms)
+				ProcessInitializeOnLoadMethodAttributes (98ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 186.6 MB to 185.4 MB.
+Total: 13.062024 ms (FindLiveObjects: 0.917360 ms CreateObjectMapping: 0.905980 ms MarkObjects: 8.128872 ms  DeleteObjects: 3.107068 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (30.1 KB). Loaded Objects now: 4475.
+Memory consumption went from 185.4 MB to 185.3 MB.
+Total: 7.096960 ms (FindLiveObjects: 0.978497 ms CreateObjectMapping: 0.421211 ms MarkObjects: 5.664333 ms  DeleteObjects: 0.030965 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 18.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 107.7 MB to 106.5 MB.
+Total: 4.427308 ms (FindLiveObjects: 0.341117 ms CreateObjectMapping: 0.222910 ms MarkObjects: 2.997161 ms  DeleteObjects: 0.865228 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 107.3 MB to 106.1 MB.
+Total: 4.324029 ms (FindLiveObjects: 0.331765 ms CreateObjectMapping: 0.220822 ms MarkObjects: 2.956311 ms  DeleteObjects: 0.814230 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005211 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.218 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1219ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (933ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (340ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (375ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (218ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3996 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 186.3 MB to 185.1 MB.
+Total: 4.554368 ms (FindLiveObjects: 0.351475 ms CreateObjectMapping: 0.332303 ms MarkObjects: 2.959108 ms  DeleteObjects: 0.910317 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (56.7 KB). Loaded Objects now: 4475.
+Memory consumption went from 185.1 MB to 185.0 MB.
+Total: 3.578769 ms (FindLiveObjects: 0.321058 ms CreateObjectMapping: 0.261052 ms MarkObjects: 2.980067 ms  DeleteObjects: 0.015797 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 107.7 MB to 106.5 MB.
+Total: 4.229313 ms (FindLiveObjects: 0.291564 ms CreateObjectMapping: 0.221094 ms MarkObjects: 2.833543 ms  DeleteObjects: 0.882342 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (1.2 MB). Loaded Objects now: 4475.
+Memory consumption went from 107.3 MB to 106.1 MB.
+Total: 4.724338 ms (FindLiveObjects: 0.418424 ms CreateObjectMapping: 0.479770 ms MarkObjects: 2.896963 ms  DeleteObjects: 0.928373 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 2099200
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004844 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Inculead-Ren/TestProject/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+#Niantic.ARDK.Internals.StartupSystems#: Could not load an ArdkAuthConfig, please add one in a Resources/ARDK/ directory. For more information, visit the niantic.dev/docs/authentication.html site.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Niantic.ARDK.Utilities.Logging.UnityARLogHandler:Error (string) (at Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs:41)
+Niantic.ARDK.Utilities.Logging.ARLog:_Error (string) (at Assets/ARDK/Utilities/Logging/ARLog.cs:198)
+Niantic.ARDK.Internals.StartupSystems:_SetAuthenticationParameters () (at Assets/ARDK/Internals/StartupSystems.cs:149)
+Niantic.ARDK.Internals.StartupSystems:_SetCSharpInitializationMetadata () (at Assets/ARDK/Internals/StartupSystems.cs:119)
+Niantic.ARDK.Internals.StartupSystems:_StandardStartup () (at Assets/ARDK/Internals/StartupSystems.cs:83)
+Niantic.ARDK.Internals.StartupSystems:EditorStartup () (at Assets/ARDK/Internals/StartupSystems.cs:51)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:147)
+
+(Filename: Assets/ARDK/Utilities/Logging/LogHandler/UnityARLogHandler.cs Line: 41)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.771 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1772ms)
+		BeginReloadAssembly (542ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (110ms)
+		EndReloadAssembly (1055ms)
+			LoadAssemblies (414ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (400ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (423ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (226ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4032 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 73 unused Assets / (1.2 MB). Loaded Objects now: 4509.
+Memory consumption went from 187.3 MB to 186.1 MB.
+Total: 4.612531 ms (FindLiveObjects: 0.351300 ms CreateObjectMapping: 0.271334 ms MarkObjects: 3.006318 ms  DeleteObjects: 0.982200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets / (38.2 KB). Loaded Objects now: 4509.
+Memory consumption went from 186.1 MB to 186.0 MB.
+Total: 3.589670 ms (FindLiveObjects: 0.346179 ms CreateObjectMapping: 0.312261 ms MarkObjects: 2.917070 ms  DeleteObjects: 0.013427 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 81.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 67 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (1.2 MB). Loaded Objects now: 4509.
+Memory consumption went from 108.0 MB to 106.8 MB.
+Total: 34.005729 ms (FindLiveObjects: 0.407257 ms CreateObjectMapping: 0.361433 ms MarkObjects: 31.914185 ms  DeleteObjects: 1.321405 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
